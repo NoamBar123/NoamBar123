@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NoamBar123
 - 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning JavaScript
+- 
+- 📫 How to reach me - Noam Bar#6820
 
 <!---
 NoamBar123/NoamBar123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
